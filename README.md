@@ -1,7 +1,8 @@
 # Primeiro-Site
 
-Meu primeiro Site feito com o Curso Alura, utilizando html e css.
-Para copiar o código:
+Meu primeiro Site feito com o Curso Alura, utilizando HTML e CSS.
+
+Para copiar o código em HTML:
 
 ```
 <!DOCTYPE html>
@@ -28,6 +29,7 @@ Para copiar o código:
     </body>
 </html>
 ```
+Para copiar o código em CSS:
 ```
 body {
     background: #6495ED;
