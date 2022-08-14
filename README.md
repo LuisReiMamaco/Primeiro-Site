@@ -3,7 +3,7 @@
 Meu primeiro Site feito com o Curso Alura, utilizando html e css.
 Para copiar o código:
 
-` ` `
+```
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -27,8 +27,8 @@ Para copiar o código:
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
     </body>
 </html>
-` ` `
-` ` `
+```
+```
 body {
     background: #6495ED;
 }
@@ -45,4 +45,4 @@ p {
 em strong {
     color: #FFD700;
 }
-` ` `
+```
